@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+img{
+    width: 250px;
+    border-radius: 15px;
+    
+}
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    height: 1200px;
+    align-items: center;
+    gap: 50px;
+   
+}
+.texto1{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.texto2{
+    margin-top: 55px;
+   
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 13px;
+}
